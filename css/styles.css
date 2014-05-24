@@ -2,26 +2,26 @@ a{
   text-decoration: none;
 }
 a:link {
-  color:#FF0000;
+  color:#ffffff;
 }
 a:visited {
-  color:#00FF00;
+  color:#00ff00;
 }
 a:hover {
-  color:#FF00FF;
+  color:#000000;
 }
 a:active {
-  color:#0000FF;
+  color:#000000;
 }
 
 .body {
   background-color: gray;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .main-header {
-  font-size: 20;
+  font-size: 2em;
 }
 
 .main-nav {
