@@ -1,0 +1,37 @@
+a {
+  text-decoration: none;
+}
+a:link {
+  color:#FF0000;
+}
+a:visited {
+  color:#00FF00;
+}
+a:hover {
+  color:#FF00FF;
+}
+a:active {
+  color:#0000FF;
+}
+
+.body {
+  background-color: gray;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.main-header {
+  font-size: 20;
+}
+
+.main-nav {
+
+}
+
+.main-content {
+
+}
+
+.main-footer {
+  
+}
