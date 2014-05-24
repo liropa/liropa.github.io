@@ -16,8 +16,8 @@ a:active {
 
 .body {
   background-color: gray;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .main-header {
